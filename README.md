@@ -13,7 +13,7 @@ Claude Code plugin for **web front-end** development — React/Next.js, Vue/Nuxt
 
 ```sh
 # Add the marketplace (once), then install the plugin.
-/plugin marketplace add IGRSoft/frontend-developer
+/plugin marketplace add Agnidia/frontend-developer
 /plugin install frontend-developer
 ```
 
